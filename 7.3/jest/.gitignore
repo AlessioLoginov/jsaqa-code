@@ -1,5 +1,7 @@
 # Игнорировать папку node_modules
-node_modules/
+/node_modules/
 
 # Игнорировать файл package-lock.json
 package-lock.json
+
+.vscode/*
